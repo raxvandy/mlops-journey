@@ -3,7 +3,7 @@ mlops-journey
 Месяцы 1–3: Закрыть DevOps-дыры + английский
  
 Цель: k8s 2, Terraform 1.5, AWS 2, Monitoring 1.5.
-• Kubernetes (2 ч/нед): не «смотрел курс», а разверни minikube/kind локально, задеплой приложение, StatefulSet, ConfigMap, Secrets, Ingress, HPA. Это приоритет №1.
+• [ ] Kubernetes (2 ч/нед): не «смотрел курс», а разверни minikube/kind локально, задеплой приложение, StatefulSet, ConfigMap, Secrets, Ingress, HPA. Это приоритет №1.
 • Terraform (1 ч/нед): HashiCorp Learn, разверни EC2 + S3 + IAM. Потом EKS.
 • AWS (1 ч/нед): S3, EC2, IAM, VPC, ECS/EKS, CloudWatch. Готовься к AWS Solutions Architect Associate — это добавит веса резюме.
 • Monitoring (0.5 ч/нед): Prometheus + Grafana. Разверни в k8s, собери метрики.
