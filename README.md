@@ -1,4 +1,5 @@
 # mlops-journey
+<<<<<<< HEAD
 mlops-journey
 Месяцы 1–3: Закрыть DevOps-дыры + английский
  
@@ -40,3 +41,9 @@ mlops-journey
 • Английский: довести до B2. 
 Артефакт: 3 проекта на GitHub + резюме + профиль LinkedIn.
  
+=======
+Repository of My journing by waves of kwnoleages.
+
+
+
+>>>>>>> 1d8b115 (add function sql)
